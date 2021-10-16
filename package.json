@@ -12,12 +12,12 @@
   ],
   "author": "",
   "devDependencies": {
-    "moleculer-repl": "^0.6.4"
+    "moleculer-repl": "^0.6.6"
   },
   "dependencies": {
     "jsonwebtoken": "^8.5.1",
-    "moleculer": "^0.14.7",
-    "moleculer-web": "^0.9.1"
+    "moleculer": "^0.14.17",
+    "moleculer-web": "^0.10.2"
   },
   "engines": {
     "node": ">= 8.x.x"
